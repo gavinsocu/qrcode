@@ -30,6 +30,7 @@ export default {
     TinyContainer: Container,
     TinyLayout: Layout
     },
+
     data(){
         return{
         mainid: {
